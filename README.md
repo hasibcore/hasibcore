@@ -1,12 +1,8 @@
 # 🌌 HASIBUL HASAN (hasibcore)
 
 <div align="center">
-  <h3>⚡ HOLOGRAPHIC TERMINAL ACTIVE ⚡</h3>
   <p>Competitive Programmer | Software Developer | Dhaka, Bangladesh</p>
   
-  <a href="https://codeforces.com/profile/hasibcore" target="_blank">
-    <img src="https://img.shields.io/badge/CODEFORCES-hasibcore-00d4ff?style=for-the-badge&logo=codeforces&logoColor=00d4ff&labelColor=02020f&color=00d4ff" alt="Codeforces" />
-  </a>
   <a href="https://hasibcore.github.io/CP/hologram-dashboard/" target="_blank">
     <img src="https://img.shields.io/badge/ENTER%20INTERACTIVE%20DASHBOARD-ONLINE-00d4ff?style=for-the-badge&logo=matrix&logoColor=black&labelColor=02020f&color=00d4ff" alt="Enter Dashboard" />
   </a>
@@ -14,8 +10,9 @@
 
 <br />
 
+<!-- Holographic Terminal Console Dashboard Card -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hasibcore/hasibcore/main/assets/projector.svg" onerror="this.style.display='none'" width="100%" />
+  <img src="https://raw.githubusercontent.com/hasibcore/hasibcore/main/assets/terminal.svg" width="100%" alt="Holographic Terminal Console" />
 </div>
 
 <br />
