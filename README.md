@@ -1,226 +1,152 @@
 <div align="center">
 
-<!-- Cybernetic Hologram Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0d1117&text=SYSTEM%20ONLINE&fontColor=00F7FF&fontSize=30&fontAlignY=30&desc=SECURE%20CONNECTION%20ESTABLISHED%20...&descSize=12&descFontColor=A020F0&descAlignY=60&stroke=00F7FF&strokeWidth=1" width="100%"/>
-
-<br/>
-
-<!-- Holographic Scanning Globe/Interface -->
-<img src="https://i.imgur.com/8QZ7FkR.gif" width="220" alt="Hologram Interface"/>
+<!-- Clean, High-Tech Header Banner -->
+<img src="https://raw.githubusercontent.com/hasibcore/hasibcore/main/assets/banner.png" width="100%" alt="Hasibul Hasan Banner"/>
 
 <br/><br/>
 
-# 🌐 `HASIBUL HASAN`
-### ⚡ CYBERNETIC SPECIALIST & RUNTIME DEVELOPER ⚡
+# 👋 Hi, I'm Hasibul Hasan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=20&duration=1500&pause=500&color=00F7FF&center=true&vCenter=true&width=750&lines=▶+SYSTEM+INITIALIZING...;▶+COMPILING+CORE+FUNCTIONS...;▶+LOADING+TECH+STACK...;▶+CONNECTING+TO+THE+MATRIX..."/>
+### 💻 C++ • Java • Python • Web Developer • Problem Solver
 
-<br/>
-
-<!-- Futuristic Glimmering Neon Border -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpvMTN3eGN2MmlyODlyNGN0ZXZ4dzV5YWU1dnNpcXBsaHY1eHJmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="100%" height="8px"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Competitive+Programmer;Full+Stack+Developer;Building+Godhuli.me;Always+Learning+New+Things"/>
 
 </div>
 
 ---
 
-## ⚡ CORE UTILITIES & DIAGNOSTICS
-
-<div align="center">
-
-```
-========================================================================
-[STATUS: ACTIVE]    [HOST: HASIBCORE]    [NETWORK: SECURE]    [MEM: OK]
-========================================================================
-```
-
-</div>
-
-<table align="center" style="border: 2px solid #00F7FF; border-radius: 8px; background-color: #0b0f19;">
-<tr>
-<td>
-
-```yaml
-🛰️ SYSTEM INFORMATION:
-  - User: Hasibul Hasan
-  - Core Modules: C++, Java, Python, Web Architecture
-  - Target Objectives: High-frequency Problem Solving & Systems Building
-  - Location: Grid-Sector 880 (Bangladesh)
-```
-
-</td>
-<td>
-
-```yaml
-🛡️ OPERATIONAL DIRECTIVES:
-  - Active: Scaling Godhuli.me to new nodes
-  - Sync: Optimization of 2D game engines (Last Light of Hope)
-  - Next: Deep integration of Spring Boot microservices
-```
-
-</td>
-</tr>
-</table>
+### 👤 About Me
+*   🎓 **B.Sc. in Computer Science & Engineering** student.
+*   🧠 Passionate about **Data Structures & Algorithms** and **Competitive Programming**.
+*   🌐 Currently developing **[Godhuli.me](https://godhuli.me)**, an educational platform for students in Bangladesh.
+*   🎮 Building **Last Light of Hope**, a 2D horror adventure game using C++ and iGraphics.
+*   ✉️ You can reach me at **hasibul.hasan.dev@gmail.com**.
 
 ---
 
-## 📡 FREQUENCY RECEIVERS (SOCIAL LINKS)
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://codeforces.com/profile/hasibul_core">
-    <img src="https://img.shields.io/badge/Codeforces-hasibul__core-00F7FF?style=for-the-badge&logo=codeforces&logoColor=black&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Codeforces-hasibul__core-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://atcoder.jp/users/hasibcore">
-    <img src="https://img.shields.io/badge/AtCoder-hasibcore-A020F0?style=for-the-badge&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/AtCoder-hasibcore-000000?style=for-the-badge" alt="AtCoder"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://leetcode.com/u/hasibcore/">
-    <img src="https://img.shields.io/badge/LeetCode-hasibcore-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/LeetCode-hasibcore-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/hasibul-hasan-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Link-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://facebook.com/hasibul.hasan.dev">
-    <img src="https://img.shields.io/badge/Facebook-Link-A020F0?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://instagram.com/hasibul.hasan.dev">
-    <img src="https://img.shields.io/badge/Instagram-Link-FF6B6B?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpvMTN3eGN2MmlyODlyNGN0ZXZ4dzV5YWU1dnNpcXBsaHY1eHJmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="60%" height="4px"/>
-</div>
+---
+
+### 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌌 Godhuli.me</h4>
+      <p>Modern Educational Platform for SSC, HSC & Class 5-12 students in Bangladesh.</p>
+      <ul>
+        <li>📚 Full syllabus coverage</li>
+        <li>📝 Practice tests & quizzes</li>
+        <li>🎥 Interactive video lessons</li>
+      </ul>
+      <a href="https://godhuli.me">
+        <img src="https://img.shields.io/badge/Visit-Godhuli.me-purple?style=for-the-badge" alt="Godhuli"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎮 Last Light of Hope</h4>
+      <p>A 2D horror adventure and survival game built from scratch.</p>
+      <ul>
+        <li>🕹️ Powered by C++</li>
+        <li>🖼️ Rendered using iGraphics</li>
+        <li>🧩 Maze & puzzle-solving mechanics</li>
+      </ul>
+      <a href="https://github.com/hasibcore/Last-Light-of-Hope">
+        <img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github" alt="Repository"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💾 REPOSITORIES & NODE DIRECTORY
+### ⚡ Tech Stack
 
-<div align="center">
-
-| 🌌 MODULE: GODHULI.ME | 🎮 MODULE: LAST LIGHT OF HOPE |
-| :--- | :--- |
-| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjh2OXNkcGZqMmxsMXZoc216a3l2c3cwbjEwcTllNHZudmx2eHY5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3y0oCOkdKKRi0/giphy.gif" width="100%" alt="Educational Network Grid"/> | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRrdnd2c3g2dnpndmE0amdyYnV1MDFzNHAxd3RpaGwyMG05aG51ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgTR3UQ9XA3vy/giphy.gif" width="100%" alt="Horror System Scan"/> |
-| 🌐 [Deploy Node](https://godhuli.me) | 🕹️ [Source Grid](https://github.com/hasibcore/Last-Light-of-Hope) |
-| Architecture: HTML, CSS, Javascript (Frontend Node) | Core: C++, iGraphics Engine (System-Level) |
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,mysql,git,github,vscode,figma,netbeans" alt="Tech Stack"/>
+</p>
 
 ---
 
-## 🧠 TRANSMISSION MATRIX (TECH WEAPONRY)
+### 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasibcore&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=hasibcore&theme=tokyonight" alt="Streak Stats"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,mysql,git,github,vscode,figma&theme=dark" width="90%"/>
-
-<br/><br/>
-
-### 📶 LOGICAL POWER RATIOS
-
-`COMPILER (C++)` 
-```
-[██████████████████████████████░░░░░░] 85%
-```
-`ENGINE (JAVA)` 
-```
-[██████████████████████░░░░░░░░░░░░░] 75%
-```
-`DOM BUILDER (HTML/CSS/JS)` 
-```
-[████████████████████░░░░░░░░░░░░░░░] 70%
-```
-`SCRIPTING (PYTHON)` 
-```
-[████████████████░░░░░░░░░░░░░░░░░░░] 60%
-```
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibcore&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
-## 📊 CORE METRICS & ANALYTICS
+### 🏆 Achievements & Trophies
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasibcore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00F7FF&title_color=00F7FF&icon_color=A020F0&text_color=ffffff&bg_color=0D1117&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibcore&layout=compact&langs_count=8&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&text_color=ffffff&bg_color=0D1117"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=hasibcore&theme=tokyonight&border=00F7FF&ring=A020F0&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=00F7FF&sideNums=ffffff&dates=888888&background=0D1117&stroke=00F7FF" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hasibcore&theme=tokyonight&row=1&column=7" alt="Trophies"/>
+</p>
 
 ---
 
-## 🏆 SYSTEM TROPHIES & MILESTONES
+### 📈 Activity Graph
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hasibcore&theme=tokyonight&no-frame=false&margin-w=8&row=2&column=4" width="90%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasibcore&theme=tokyo-night" alt="Activity Graph" width="100%"/>
+</p>
 
 ---
 
-## 📈 NETWORK ACTIVITY GRAPH
+### 🐍 contribution Snake
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasibcore&bg_color=0D1117&color=00F7FF&line=A020F0&point=FF6B6B&area=true&area_color=0A0E3F&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 SYNTAX SNAKE (GENERATING...)
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasibcore/hasibcore/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasibcore/hasibcore/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/hasibcore/hasibcore/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasibcore/hasibcore/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasibcore/hasibcore/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/hasibcore/hasibcore/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
 
 ---
 
-## 🗃️ LIVE DIAGNOSTICS & SYSTEM QUOTES
+### 👀 Profile Visitors
 
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hasibcore&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Views"/>
+</p>
 
 ---
 
-## 🚨 SCANNERS & SENSORS
-
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=hasibcore&style=for-the-badge&color=00F7FF&label=SCANNER+VIEWS)
-&nbsp;&nbsp;
-[![Followers](https://img.shields.io/github/followers/hasibcore?style=for-the-badge&color=A020F0&label=FOLLOWERS&logo=github)](https://github.com/hasibcore)
-&nbsp;&nbsp;
-[![Stars](https://img.shields.io/github/stars/hasibcore?style=for-the-badge&color=FF6B6B&label=STARS+SECURED&logo=github)](https://github.com/hasibcore)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Waving holographic ending banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D0221,50:00F7FF,100:A020F0&section=footer&text=TERMINAL%20END%20...%20BYE&fontColor=ffffff&fontSize=20&fontAlignY=65&animation=twinkling" width="100%"/>
-
+  <h4>⭐ Thanks for visiting! ⭐</h4>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F5FF,100:A020F0&section=footer" alt="Footer"/>
 </div>
