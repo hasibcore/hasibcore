@@ -1,219 +1,258 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hasibcore/hasibcore/main/assets/banner.png" width="100%" alt="Hasibul Hasan — Code. Learn. Build. Repeat."/>
+![header](https://capsule-render.vercel.app/api?type=venom&height=320&color=0:0D0221,30:050A30,70:0A0E3F,100:0D0221&text=HASIBUL%20HASAN&fontColor=00F7FF&fontSize=65&fontAlign=50&fontAlignY=38&desc=〔%20Code%20·%20Learn%20·%20Build%20·%20Repeat%20〕&descSize=22&descFontColor=A020F0&descAlignY=60&animation=fadeIn&stroke=00F7FF&strokeWidth=3)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=16&duration=2000&pause=600&color=00F7FF&center=true&vCenter=true&width=850&lines=⚡+Competitive+Programmer+%7C+CF%3A+hasibul_core;🌐+Building+Godhuli.me+%7C+Ed-Tech+for+Bangladesh;🎮+Game+Dev+%7C+Last+Light+of+Hope+%7C+C%2B%2B+%2B+iGraphics;☕+Java+Backend+%7C+Spring+Boot+%7C+MySQL;🧠+DSA+Enthusiast+%7C+100%2B+Problems+Solved;🤖+Exploring+AI+%2F+ML+%7C+Always+Learning;✨+The+Best+Way+to+Predict+the+Future+is+to+Create+It"/>
 
 <br/>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi, I'm **Hasibul Hasan**
-
-### 💻 C++ · Java · Python · Web Developer · Problem Solver
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%8F%86;Full+Stack+Developer+%F0%9F%8C%90;Building+Godhuli.me+%F0%9F%8C%99;Always+Learning+New+Things+%E2%9C%A8;Code.+Learn.+Build.+Repeat.+%3C%2F%3E"/>
-
-<br/>
-
-![](https://capsule-render.vercel.app/api?type=waving&height=3&color=0:00F5FF,100:A020F0)
+<!-- Holographic animated divider -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
+### 🌐 Find Me On
 
-<a href="https://codeforces.com/profile/hasibul_core">
-<img src="https://img.shields.io/badge/Codeforces-hasibul__core-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://atcoder.jp/users/hasibcore">
-<img src="https://img.shields.io/badge/AtCoder-hasibcore-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/hasibcore/">
-<img src="https://img.shields.io/badge/LeetCode-hasibcore-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+[![Codeforces](https://img.shields.io/badge/⚡%20Codeforces-hasibul__core-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hasibul_core)
+[![AtCoder](https://img.shields.io/badge/🏯%20AtCoder-hasibcore-222?style=for-the-badge)](https://atcoder.jp/users/hasibcore)
+[![LeetCode](https://img.shields.io/badge/💡%20LeetCode-hasibcore-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hasibcore/)
 
-<br/><br/>
+<br/>
 
-<a href="https://linkedin.com/in/hasibul-hasan-dev">
-<img src="https://img.shields.io/badge/LinkedIn-Hasibul%20Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://facebook.com/hasibul.hasan.dev">
-<img src="https://img.shields.io/badge/Facebook-hasibul.hasan.dev-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/hasibul.hasan.dev">
-<img src="https://img.shields.io/badge/Instagram-hasibul.hasan.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasibul-hasan-dev)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hasibul.hasan.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hasibul.hasan.dev)
+[![Godhuli.me](https://img.shields.io/badge/🌙%20Godhuli.me-Visit-8A2BE2?style=for-the-badge)](https://godhuli.me)
 
-</p>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 👤 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-```cpp
-class HasibulHasan {
-public:
-    string name     = "Hasibul Hasan";
-    string role     = "CS Student | Competitive Programmer | Developer";
-    string location = "Bangladesh 🇧🇩";
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-    vector<string> languages  = {"C++", "Java", "Python", "JavaScript"};
-    vector<string> interests  = {"DSA", "Full Stack Dev", "Game Dev", "AI/ML"};
-    vector<string> currentlyBuilding = {"Godhuli.me", "CP Skills", "Java Backend"};
+```python
+class HasibulHasan:
 
-    string motto() {
-        return "The best way to predict the future is to CREATE it. 🚀";
+    name        = "Hasibul Hasan"
+    alias       = "@hasibcore"
+    location    = "Bangladesh 🇧🇩"
+
+    languages   = ["C++", "Java", "Python", "JS", "C"]
+    tools       = ["Git", "VS Code", "MySQL", "Figma"]
+
+    cp_handles  = {
+        "Codeforces" : "hasibul_core",
+        "AtCoder"    : "hasibcore",
+        "LeetCode"   : "hasibcore",
     }
-};
+
+    building    = [
+        "🌙 Godhuli.me  — Ed-Tech Platform",
+        "🎮 Last Light  — 2D Horror Game",
+        "☕ Java Backend — Spring Boot",
+    ]
+
+    motto = "Create the future, don't wait for it 🚀"
 ```
 
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
+### 🌙 Godhuli.me
+> Modern Ed-Tech platform for Bangladesh
 
-### 🌌 Godhuli.me
-**Modern Educational Platform for Bangladesh**
+[![Live](https://img.shields.io/badge/🌐_Live-godhuli.me-8A2BE2?style=for-the-badge)](https://godhuli.me)
 
-> A comprehensive learning platform designed for SSC, HSC & Class 5–12 students.
-
-- 📚 **SSC & HSC** full curriculum
-- 📝 **Practice** tests & quizzes
-- 🎥 **Video** lessons
-- 🌙 **Dark Mode** supported
-- 🌍 Built for Bangladeshi students
-
-**Stack:** `HTML` `CSS` `JavaScript`
-
-<a href="https://godhuli.me">
-<img src="https://img.shields.io/badge/🌐_Visit-Godhuli.me-8A2BE2?style=for-the-badge"/>
-</a>
+```
+📚 SSC · HSC · Class 5–12
+📝 Practice tests & quizzes
+🎥 Video lessons
+🌙 Full dark mode
+🌍 Built for Bangladeshi students
+```
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
-
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🎮 Last Light of Hope
-**2D Horror Adventure Game**
+> 2D Horror adventure game in C++
 
-> A dark, story-driven horror game built entirely in C++ with iGraphics.
+[![Repo](https://img.shields.io/badge/🎮_View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/hasibcore/Last-Light-of-Hope)
 
-- 🕹️ **C++** core engine
-- 🖼️ **iGraphics** rendering
-- 🗺️ Maze & puzzle mechanics
-- 👻 Atmospheric horror story
-- ⚔️ Survival gameplay
-
-**Stack:** `C++` `iGraphics` `Game Dev`
-
-<a href="https://github.com/hasibcore/Last-Light-of-Hope">
-<img src="https://img.shields.io/badge/🎮_View-Repository-1a1a2e?style=for-the-badge&logo=github"/>
-</a>
+```
+👻 Immersive horror storyline
+🗺️ Complex maze navigation
+🧩 Puzzle-based progression
+⚔️ Survival mechanics
+🎨 iGraphics 2D renderer
+```
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![iGraphics](https://img.shields.io/badge/-iGraphics-ff4444?style=flat-square)
+![GameDev](https://img.shields.io/badge/-Game%20Dev-7B68EE?style=flat-square)
 
 </td>
-
 </tr>
 </table>
 
----
+</div>
 
-## ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,git,github,vscode,mysql,figma,netbeans&perline=6"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Tech Arsenal
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasibcore&show_icons=true&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&icon_color=A020F0&hide_border=false&count_private=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=hasibcore&theme=tokyonight&border=00F5FF&ring=A020F0&fire=FF6B6B&currStreakLabel=00F5FF"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,git,github,vscode,mysql,figma,netbeans&perline=6&theme=dark"/>
+
+<br/><br/>
+
+### 📊 Skill Matrix
+
+| Skill | Proficiency |
+|:------|:-----------|
+| `C++ / DSA` | ██████████████████░░ **85%** |
+| `Java` | ████████████████░░░░ **75%** |
+| `HTML · CSS · JS` | ██████████████░░░░░░ **70%** |
+| `Python` | ████████████░░░░░░░░ **60%** |
+| `Game Dev (iGraphics)` | █████████░░░░░░░░░░░ **45%** |
+| `Spring Boot` | ███████░░░░░░░░░░░░░ **35%** |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 💻 Most Used Languages
+## 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibcore&layout=compact&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&langs_count=8"/>
-</p>
+<div align="center">
+
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=hasibcore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00F7FF&title_color=00F7FF&icon_color=A020F0&text_color=ffffff&bg_color=0D1117&hide_border=false"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibcore&layout=compact&langs_count=8&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&text_color=ffffff&bg_color=0D1117"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=hasibcore&theme=tokyonight&border=00F7FF&ring=A020F0&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=00F7FF&sideNums=ffffff&dates=888888&background=0D1117&stroke=00F7FF"/>
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hasibcore&theme=tokyonight&row=1&column=7&no-frame=false&margin-w=8"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hasibcore&theme=tokyonight&no-frame=false&margin-w=8&row=2&column=4"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasibcore&theme=tokyo-night&area=true&hide_border=false&color=00F5FF&line=A020F0&point=FF6B6B"/>
-</p>
+<div align="center">
 
----
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasibcore&bg_color=0D1117&color=00F7FF&line=A020F0&point=FF6B6B&area=true&area_color=0A0E3F&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🎯 Currently Working On
-
-| Project | Progress |
-|---------|----------|
-| 🧠 Improving DSA Skills | ![80%](https://progress-bar.xyz/80/?scale=100&width=200&color=00F5FF&suffix=%) |
-| ☕ Java Backend Projects | ![60%](https://progress-bar.xyz/60/?scale=100&width=200&color=A020F0&suffix=%) |
-| 🌐 Full Stack Web App | ![70%](https://progress-bar.xyz/70/?scale=100&width=200&color=FF6B6B&suffix=%) |
-| 🎮 Game Development | ![40%](https://progress-bar.xyz/40/?scale=100&width=200&color=FFD700&suffix=%) |
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasibcore/hasibcore/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasibcore/hasibcore/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hasibcore/hasibcore/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/hasibcore/hasibcore/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
-</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=hasibcore&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/hasibcore?style=for-the-badge&color=A020F0&label=FOLLOWERS"/>
-</p>
-
----
+## 🎯 2026 Roadmap
 
 <div align="center">
 
-### ⭐ *"The best way to predict the future is to create it."* ⭐
+| Goal | Status |
+|:-----|:------:|
+| 🏆 Reach Codeforces **Specialist** | 🔄 In Progress |
+| ☕ Complete **Java + Spring Boot** | 🔄 In Progress |
+| 🌐 Launch **Godhuli.me v2.0** | 📅 Planned |
+| 🤖 Learn **Machine Learning** basics | 📅 Planned |
+| 🎮 Ship **Last Light of Hope** | 🔄 In Progress |
+| ⭐ Reach **100 GitHub Stars** | 📅 Planned |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F5FF,100:A020F0&section=footer&fontColor=ffffff&fontSize=16&text=Thanks+For+Visiting!&animation=twinkling"/>
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 👀 Visitors
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=hasibcore&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/hasibcore?style=for-the-badge&color=A020F0&label=FOLLOWERS&logo=github)](https://github.com/hasibcore)
+&nbsp;
+[![Stars](https://img.shields.io/github/stars/hasibcore?style=for-the-badge&color=FF6B6B&label=TOTAL+STARS&logo=github)](https://github.com/hasibcore)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=14&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=🤝+Let's+Connect+%26+Build+Together!;💡+Open+to+collaborations+%26+new+ideas;🚀+Always+open+to+learning+something+new"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0D0221,50:A020F0,100:00F7FF&section=footer&text=Thanks%20For%20Visiting!%20⭐&fontColor=ffffff&fontSize=24&fontAlignY=65&animation=twinkling)
 
 </div>
