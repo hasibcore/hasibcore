@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Hasibul Hasan Banner" style="border-radius: 10px;" />
+![Banner](https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0D0221,50:0A0E3F,100:0D0221&text=HASIBUL%20HASAN&fontColor=00F7FF&fontSize=60&fontAlign=50&fontAlignY=38&desc=Code%20%C2%B7%20Learn%20%C2%B7%20Build%20%C2%B7%20Repeat&descSize=20&descFontColor=A020F0&descAlignY=60&animation=fadeIn&stroke=00F7FF&strokeWidth=2)
 
 <br/>
-<br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%8F%86;Full+Stack+%26+App+Developer+%F0%9F%8C%90;Building+AirCanvas+%26+Godhuli.me+%F0%9F%8C%99;Always+Learning+New+Things+%E2%9C%A8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%8F%86;Full+Stack+%26+App+Developer+%F0%9F%8C%90;Building+AirCanvas+%26+Godhuli.me+%F0%9F%8C%99;Always+Learning+New+Things+%E2%9C%A8)
 
 <br/>
 
@@ -37,7 +36,7 @@
 
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="58%" valign="top">
 
 ```python
 class HasibulHasan:
@@ -63,8 +62,8 @@ class HasibulHasan:
 ```
 
     </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="assets/coding_workspace.png" width="100%" alt="3D Holographic Developer Workspace" style="border-radius: 8px;" />
+    <td width="42%" align="center" valign="middle">
+      <img src="coding.gif" width="100%" alt="Developer Coding Animation" />
     </td>
   </tr>
 </table>
