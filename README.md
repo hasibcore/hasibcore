@@ -8,6 +8,16 @@
 
 <br/>
 
+<p align="center">
+  <a href="#-about-me"><b>📌 About</b></a> •
+  <a href="#-featured-projects"><b>🚀 Projects</b></a> •
+  <a href="#-tech-stack"><b>⚡ Tech Stack</b></a> •
+  <a href="#-github-trophies"><b>🏆 Trophies</b></a> •
+  <a href="#-github-stats"><b>📊 Stats</b></a>
+</p>
+
+<br/>
+
 [![Codeforces](https://img.shields.io/badge/Codeforces-hasibul__core-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hasibul_core)
 [![AtCoder](https://img.shields.io/badge/AtCoder-hasibcore-1A1A2E?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/hasibcore)
 [![LeetCode](https://img.shields.io/badge/LeetCode-hasibcore-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hasibcore/)
@@ -20,7 +30,9 @@
 
 </div>
 
----
+<br/>
+
+![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
 
 ## 👤 About Me
 
@@ -48,6 +60,8 @@ class HasibulHasan:
 ```
 
 <br/>
+
+![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
 
 ## 🚀 Featured Projects
 
@@ -121,61 +135,73 @@ class HasibulHasan:
 
 <br/>
 
-## ⚡ Tech Stack
+![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
+
+## ⚡ Tech Stack & Tools
 
 <div align="center">
+
+[![Skill Icons](https://skillicons.dev/icons?i=cpp,java,py,dart,js,ts,flutter,opencv,react,nextjs,nodejs,express,tailwind,mysql,postgres,sqlite,git,github,vscode,androidstudio,postman,vercel,figma&perline=12)](https://skillicons.dev)
+
+<br/>
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-<br>
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br>
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasibcore&show_icons=true&theme=tokyonight&count_private=true&border_color=00F7FF&title_color=00F7FF&icon_color=A020F0&hide_border=false&ring_color=A020F0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibcore&layout=compact&langs_count=8&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&hide_border=false)
-
-![Streak](https://streak-stats.demolab.com?user=hasibcore&theme=tokyonight&border=00F7FF&ring=A020F0&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=00F7FF&background=0D1117)
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=hasibcore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=6)
 
 </div>
 
 <br/>
+
+![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
+
+## 📊 GitHub Analytics & Metrics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasibcore&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_color=00F7FF&title_color=00F7FF&icon_color=A020F0&hide_border=false&ring_color=A020F0)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibcore&layout=compact&langs_count=8&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&hide_border=false)
+
+<br/>
+
+![Streak Stats](https://streak-stats.demolab.com?user=hasibcore&theme=tokyonight&border=00F7FF&ring=A020F0&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=00F7FF&background=0D1117)
+
+</div>
+
+<br/>
+
+![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
 
 ## 📈 Activity Graph
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasibcore&theme=tokyo-night&area=true&hide_border=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasibcore&theme=tokyo-night&area=true&hide_border=false&bg_color=0D1117&color=00F7FF&line=A020F0&point=00F7FF)
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
+
+## 🐍 Dynamic Contribution Grid
 
 <div align="center">
 
@@ -189,6 +215,20 @@ class HasibulHasan:
 
 <br/>
 
+![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
+
+## ⚡ Daily Developer Humor / Quote
+
+<div align="center">
+
+![Developer Joke Card](https://readme-jokes.vercel.app/api?theme=tokyonight&bg_color=0D1117&border_color=00F7FF&q_color=00F7FF&a_color=A020F0)
+
+</div>
+
+<br/>
+
+![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
+
 ## 💡 What I'm Up To
 
 - 🎨 Refining **[AirCanvas](https://github.com/hasibcore/AirCanvas)** — OpenCV computer vision touchless whiteboard
@@ -200,7 +240,7 @@ class HasibulHasan:
 
 <br/>
 
-## 👀 Profile Views
+## 👀 Profile Views & Badges
 
 <div align="center">
 
