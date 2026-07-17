@@ -34,6 +34,10 @@
 
 ## 👤 About Me
 
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
 ```python
 class HasibulHasan:
     name        = "Hasibul Hasan"
@@ -56,6 +60,13 @@ class HasibulHasan:
     ]
     motto       = "The best way to predict the future is to CREATE it. 🚀"
 ```
+
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="coding.gif" width="100%" alt="Developer Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
