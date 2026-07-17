@@ -155,9 +155,9 @@ class HasibulHasan:
 
 | Platform | Handle | Rating | Problems Solved |
 |:--------:|:------:|:------:|:---------------:|
-| ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | [`hasibul_core`](https://codeforces.com/profile/hasibul_core) | ![](https://img.shields.io/badge/Expert-1600%2B-00F7FF?style=flat-square) | ![](https://img.shields.io/badge/500%2B-39FF14?style=flat-square) |
-| ![AtCoder](https://img.shields.io/badge/-AtCoder-1A1A2E?style=flat-square&logo=atcoder&logoColor=white) | [`hasibcore`](https://atcoder.jp/users/hasibcore) | ![](https://img.shields.io/badge/6%2B%20Kyu-A020F0?style=flat-square) | ![](https://img.shields.io/badge/200%2B-FFD93D?style=flat-square) |
-| ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [`hasibcore`](https://leetcode.com/u/hasibcore/) | ![](https://img.shields.io/badge/Knight-1700%2B-FFA116?style=flat-square) | ![](https://img.shields.io/badge/300%2B-39FF14?style=flat-square) |
+| ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | [`hasibul_core`](https://codeforces.com/profile/hasibul_core) | ![](https://img.shields.io/badge/Candidate%20Master-1900%2B-AA00AA?style=flat-square) | ![](https://img.shields.io/badge/1000%2B-39FF14?style=flat-square) |
+| ![AtCoder](https://img.shields.io/badge/-AtCoder-1A1A2E?style=flat-square&logo=atcoder&logoColor=white) | [`hasibcore`](https://atcoder.jp/users/hasibcore) | ![](https://img.shields.io/badge/3--Kyu-1600%2B-0000FF?style=flat-square) | ![](https://img.shields.io/badge/500%2B-FFD93D?style=flat-square) |
+| ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [`hasibcore`](https://leetcode.com/u/hasibcore/) | ![](https://img.shields.io/badge/Guardian-2150%2B-FF4500?style=flat-square) | ![](https://img.shields.io/badge/800%2B-39FF14?style=flat-square) |
 
 <br/>
 
