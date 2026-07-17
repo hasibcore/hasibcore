@@ -11,9 +11,9 @@
 <p align="center">
   <a href="#-about-me"><b>📌 About</b></a> •
   <a href="#-featured-projects"><b>🚀 Projects</b></a> •
-  <a href="#-tech-stack"><b>⚡ Tech Stack</b></a> •
-  <a href="#-github-trophies"><b>🏆 Trophies</b></a> •
-  <a href="#-github-stats"><b>📊 Stats</b></a>
+  <a href="#-tech-stack--tools"><b>⚡ Tech Stack</b></a> •
+  <a href="#-github-analytics--metrics"><b>📊 Stats</b></a> •
+  <a href="#-activity-graph"><b>📈 Activity</b></a>
 </p>
 
 <br/>
@@ -30,9 +30,7 @@
 
 </div>
 
-<br/>
-
-![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
+---
 
 ## 👤 About Me
 
@@ -59,9 +57,7 @@ class HasibulHasan:
     motto       = "The best way to predict the future is to CREATE it. 🚀"
 ```
 
-<br/>
-
-![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
+---
 
 ## 🚀 Featured Projects
 
@@ -133,9 +129,7 @@ class HasibulHasan:
 </tr>
 </table>
 
-<br/>
-
-![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
+---
 
 ## ⚡ Tech Stack & Tools
 
@@ -155,21 +149,7 @@ class HasibulHasan:
 
 </div>
 
-<br/>
-
-![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=hasibcore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=6)
-
-</div>
-
-<br/>
-
-![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
+---
 
 ## 📊 GitHub Analytics & Metrics
 
@@ -185,9 +165,7 @@ class HasibulHasan:
 
 </div>
 
-<br/>
-
-![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
+---
 
 ## 📈 Activity Graph
 
@@ -197,11 +175,9 @@ class HasibulHasan:
 
 </div>
 
-<br/>
+---
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
-
-## 🐍 Dynamic Contribution Grid
+## 🐍 Contribution Grid Snake
 
 <div align="center">
 
@@ -213,21 +189,7 @@ class HasibulHasan:
 
 </div>
 
-<br/>
-
-![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
-
-## ⚡ Daily Developer Humor / Quote
-
-<div align="center">
-
-![Developer Joke Card](https://readme-jokes.vercel.app/api?theme=tokyonight&bg_color=0D1117&border_color=00F7FF&q_color=00F7FF&a_color=A020F0)
-
-</div>
-
-<br/>
-
-![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:A020F0,100:00F7FF)
+---
 
 ## 💡 What I'm Up To
 
